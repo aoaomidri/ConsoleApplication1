@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello I,m Chara!\n";
 
-    std::cout << "Hello New branch!\n";
+    std::cout << "GitHub Clone changed\n";
 
     std::cout << "third branch\n";
 
